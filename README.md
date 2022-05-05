@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gourav Mahkaud</h1>
+<h1 align="center">Hi 👋, I'm Gourav Mahakud</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gouravmahakud&label=Profile%20views&color=0e75b6&style=flat" alt="gouravmahakud" /> </p>
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Netflix Clone with React**
 
-- 🌱 I’m currently learning **Python,**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👯 I’m looking to collaborate on **Typescript/Javascript projects**
 
