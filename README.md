@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **gourav.srinu@gmail.com**
 
-- ⚡ Fun fact **My projects more sasrcastic than myself**
+- ⚡ Fun fact **My projects more sarcastic than myself**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
